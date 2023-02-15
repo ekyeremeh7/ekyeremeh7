@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emmanuel Kwabena Kyeremeh
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Project Manager
+- 🌱 I’m currently learning Project Management
 - 💞️ I’m looking to collaborate on Open source projects
 - 📫 You can reach me via my email ekyeremeh7@gmail.com or +233558121540 via phone
 
